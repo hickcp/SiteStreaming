@@ -54,6 +54,12 @@ body{
 /*ESTILO DO LOGO*/
 .cabecalho .cabecalho__logo{
     text-align: center;
+    color: red;
+    font-family: 'Bebas Neue';
+    font-size:1.2rem;
+    font-weight: bolder;
+    margin-left: 10px;
+    transform: rotate();
 }
 .cabecalho .cabecalho__logo img{}
 
